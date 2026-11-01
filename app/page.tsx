@@ -47,7 +47,7 @@ const progressSteps = [
 const initialForm: FormState = {
   userName: "",
   userTitle: "Managing Director",
-  userFirm: "First Citizens Bank",
+  userFirm: "Example Advisory",
   sponsor: "",
   lookbackDays: 14,
   focusNotes: "",

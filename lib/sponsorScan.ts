@@ -195,7 +195,7 @@ ${userLine ? `Prepared for ${userLine}. ` : ""}Lookback window: last  days. Sect
 ## Competitor Movements
 
 - **Private credit pressure:** Direct lenders are likely to lead with certainty, unitranche simplicity, and speed. Bank differentiation should center on relationship continuity, revolver utility, treasury wallet, and flexibility for follow-on acquisitions.
-- **Pitch angle:** Position First Citizens as a disciplined financing partner that can support platform growth without stretching documentation beyond credit fundamentals.
+- **Pitch angle:** Position your firm as a disciplined financing partner that can support platform growth without stretching documentation beyond credit fundamentals.
 
 ## Strategic Pitch/Deal Ideas
 
